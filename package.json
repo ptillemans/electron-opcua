@@ -13,6 +13,6 @@
     "electron": "^22.2.0"
   },
   "dependencies": {
-    "node-opcua": "^2.90.0"
+    "node-opcua": "^2.156.0"
   }
 }
