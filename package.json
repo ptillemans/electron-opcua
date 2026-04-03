@@ -10,7 +10,7 @@
   "author": "Peter Tillemans",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^40.6.0"
+    "electron": "^40.8.3"
   },
   "dependencies": {
     "node-opcua": "^2.163.1"
