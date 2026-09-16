@@ -13,6 +13,6 @@
     "electron": "^41.10.3"
   },
   "dependencies": {
-    "node-opcua": "^2.168.0"
+    "node-opcua": "^2.170.1"
   }
 }
